@@ -73,3 +73,22 @@ Phone screenshots *: Upload 2-8 phone screenshots. Screenshots must be PNG or JP
 ## Chromebook
 Chromebook screenshots: Upload 4-8 screenshots. Screenshots must be PNG or JPEG, up to 8 MB each, 16:9 or 9:16 aspect ratio, with each side between 1,080 px and 7,680 px
 
+
+
+# Langugage Support
+Arabic
+German
+Spanish (Spain)
+Spanish (Latin America)
+French (France)
+Hindi
+Indonesian
+Italian
+Japanese
+Korean
+Polish
+Portuguese (Brazil)
+Thai
+Turkish
+Vietnamese
+Chinese (Simplified)
